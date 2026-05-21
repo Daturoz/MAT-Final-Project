@@ -1,68 +1,63 @@
-# 🎀 MAT Bakeshop — Final Project
+# MAT Bakeshop - Final Project
 
-**BSBIT I-A | AICT Lab | Final Project**
-
-> *Baked with Love — Maryam · Ali · Taloot*
+BSBIT I-A | AICT Lab | Final Project
 
 ---
 
-## 👥 Group Members
+## Group Members
 
-| Name | Role |
-|------|------|
-| Maryam | Frontend Design & UI |
-| Ali | Development & Logic |
-| Taloot | Content & Testing |
+- Maryam
+- Ali
+- Taloot
 
 ---
 
-## 🌐 Live Website
+## Live Website
 
-🔗 [http://maryamalitalootbakeshop.atwebpages.com](http://maryamalitalootbakeshop.atwebpages.com)
-
----
-
-## 📋 Project Overview
-
-**MAT Bakeshop** is a fully responsive bakery website built as our AICT Lab Final Project. It represents a fictional premium bakeshop based in Islamabad, Pakistan, named after the three group members — Maryam, Ali, and Taloot.
+http://maryamalitalootbakeshop.atwebpages.com
 
 ---
 
-## ✨ Features
+## About This Project
 
-- 🏠 **Home Page** — Hero section, auto-scrolling image gallery, features strip, and customer testimonials
-- 🎂 **Menu Page** — 25+ items with category filter tabs (Cakes, Pastries, Cheesecakes, Chocolate)
-- 🛒 **Shopping Cart** — Add/remove items, quantity control, order summary modal
-- 📖 **About Page** — Bakeshop story, team info, and statistics
-- 🎥 **Watch Us Bake** — Embedded YouTube baking videos
-- 📬 **Contact/Order Page** — Order form with delivery details
+This is our final project for AICT lab. We made a bakery website called MAT Bakeshop. The name MAT comes from our names. The website is for a premium bakeshop based in Islamabad that sells cakes, pastries and desserts.
+
+We tried our best to make it look professional and also easy to use at the same time.
 
 ---
 
-## 🛠️ Technologies Used
+## Features
+
+- Home page with hero section, scrolling image gallery, and customer reviews
+- Full menu page with 25+ items and filter buttons by category
+- Working shopping cart where you can add items, change quantity and place order
+- About page with our story and bakeshop stats
+- Baking videos page with embedded YouTube videos
+- Contact and order form with delivery details
+
+---
+
+## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Bootstrap 5.3
-- Font Awesome 6.4
-- Google Fonts (Dancing Script, Playfair Display, Cormorant Garamond)
+- JavaScript
+- Bootstrap 5
+- Font Awesome
+- Google Fonts
 
 ---
 
-## 📁 Project Structure
-MAT-Final-Project/
-│
-└── index.html        # Main website file (all-in-one)
+## Something Extra
+
+We also hosted the website live on AwardSpace so anyone can access it from anywhere without downloading anything.
 
 ---
 
-## 🚀 How to Run
+## How to Run Locally
 
-1. Clone or download this repository
-2. Open `index.html` in any web browser
-3. No installations or dependencies required
+Download the index.html file and open it in any browser. No installation needed.
 
 ---
 
-*© 2024 MAT Bakeshop — Maryam · Ali · Taloot | Made with ❤️ in Islamabad*
+Made by Maryam, Ali and Taloot | Islamabad, Pakistan
