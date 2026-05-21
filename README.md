@@ -1,7 +1,7 @@
 # MAT Bakeshop
 
 ### A Premium Bakery Website — AICT Lab Final Project
-BSBIT I-A | Session 2024
+BSBIT I-A | Session 2025
 
 ---
 
