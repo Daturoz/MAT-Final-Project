@@ -1,6 +1,7 @@
-# MAT Bakeshop - Final Project
+# MAT Bakeshop
 
-BSBIT I-A | AICT Lab | Final Project
+### A Premium Bakery Website — AICT Lab Final Project
+BSBIT I-A | Session 2024
 
 ---
 
@@ -18,22 +19,22 @@ http://maryamalitalootbakeshop.atwebpages.com
 
 ---
 
-## About This Project
+## About The Project
 
-This is our final project for AICT lab. We made a bakery website called MAT Bakeshop. The name MAT comes from our names. The website is for a premium bakeshop based in Islamabad that sells cakes, pastries and desserts.
+MAT Bakeshop is a fully functional bakery website we built as our AICT lab final project. The name MAT stands for our names — Maryam, Ali and Taloot. The website represents a premium bakeshop based in Islamabad that specializes in cakes, pastries, cheesecakes and desserts.
 
-We tried our best to make it look professional and also easy to use at the same time.
+Our goal was to build something that actually looks and feels like a real business website, not just a basic project submission. We focused a lot on the user experience, the design and making sure everything works properly.
 
 ---
 
 ## Features
 
-- Home page with hero section, scrolling image gallery, and customer reviews
-- Full menu page with 25+ items and filter buttons by category
-- Working shopping cart where you can add items, change quantity and place order
-- About page with our story and bakeshop stats
+- Home Page with a hero section, auto scrolling image gallery, features section and customer reviews
+- Menu Page with 25+ items and filter buttons by category (Cakes, Pastries, Cheesecakes, Chocolate)
+- Fully working shopping cart with add/remove items, quantity control, live total and order confirmation popup
+- About Page with our story and some stats
 - Baking videos page with embedded YouTube videos
-- Contact and order form with delivery details
+- Contact and Order form with name, phone, email, address and delivery date fields
 
 ---
 
@@ -48,16 +49,20 @@ We tried our best to make it look professional and also easy to use at the same 
 
 ---
 
-## Something Extra
+## Live Hosting
 
-We also hosted the website live on AwardSpace so anyone can access it from anywhere without downloading anything.
+We hosted the website on AwardSpace so it can be accessed by anyone online without downloading anything.
 
----
-
-## How to Run Locally
-
-Download the index.html file and open it in any browser. No installation needed.
+http://maryamalitalootbakeshop.atwebpages.com
 
 ---
 
-Made by Maryam, Ali and Taloot | Islamabad, Pakistan
+## How To Run Locally
+
+1. Download or clone this repository
+2. Open index.html in any browser
+3. No installation needed
+
+---
+
+Made by Maryam, Ali and Taloot — Islamabad, Pakistan
